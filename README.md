@@ -4,7 +4,7 @@
 | Name of Question | Status of Completion |
 | ----- | ------ |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) |  ✅ ✅  
-| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |  ✅
+| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |  
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |   ✅
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  ✅ 
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | 
