@@ -1,5 +1,8 @@
 ## Code Preparation 
 ![image](https://github.com/SahashRaee/Code_Preparation_For_Interview/blob/main/Assets/code.jpg)
+## 📂 Resources:
+- [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/)
 **EASY QUESTIONS**
 | Name of Question | Status of Completion |
 | ----- | ------ |
