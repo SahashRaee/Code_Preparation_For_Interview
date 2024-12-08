@@ -3,6 +3,7 @@
 ## 📂 Resources:
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/)
+  
 **EASY QUESTIONS**
 | Name of Question | Status of Completion |
 | ----- | ------ |
